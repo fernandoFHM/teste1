@@ -1,1 +1,3 @@
-{"_id":{"$oid":"5dd987025f18f646e46bbb24"},"\"Name\"":"Jogo 1","\"Description\"":"Descrição do jogo 1","\"Plataform\"":"[\"PS4\", \"PC\"]","\"Price\"":"10"}
+{"_id":{"$oid":"5de1b1ab5779061468a98679"},"Name":"Teste","Description":"Testes de","Plataform":["PS4","XBOX"],"Price":"0"}
+{"_id":{"$oid":"5de1bc115779061468a9867a"},"Name":"teste","Description":"teste","Plataform":["Elemento","elemento2"]}
+{"_id":{"$oid":"5de1c26db66aec61b8b67357"},"Name":"GTA V","Description":"Aventura","Plataform":["PS4","XBOX ONE","WINDOWS"],"Price":"60.50"}
